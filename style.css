@@ -1,3 +1,30 @@
-.titulo{
-    background-color: rgb(148, 22, 165);
-    font-size: 100px;
+header{
+    background-color: yellow;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+h1{
+     color: darkorange;
+
+}
+
+img{
+     width: 200px;
+}
+
+section{
+    background-image: linear-gradient(red,black,white(165,42,42,0.032));
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: blueviolet;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
